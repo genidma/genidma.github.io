@@ -6,4 +6,6 @@
 ## Area 2
 
 ![Image of Astronaut](../nasa-unsplash.jpg)
+![Image of Astronaut](https://unsplash.com/photos/OLlj17tUZnU/download?force=true&w=640)
+
 <img src="/../nasa-unsplash.jpg">

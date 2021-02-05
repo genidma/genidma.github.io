@@ -1,7 +1,8 @@
 # My research - Using Github markdown language here
 
 ## Area 1
-
+* Astronautics
+* Modelling systems
 
 ## Area 2
 

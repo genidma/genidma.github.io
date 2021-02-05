@@ -5,5 +5,5 @@
 
 ## Area 2
 
-
-<img src="../nasa-unsplash.jpg">
+![Image of Astronaut]("../nasa-unsplash.jpg")
+<img src="/../nasa-unsplash.jpg">

@@ -8,4 +8,4 @@
 
 ![Image of Astronaut](https://unsplash.com/photos/OLlj17tUZnU/download?force=true&w=640)
 
-<img src="/../nasa-unsplash.jpg">
+More of github markdown here: https://guides.github.com/features/mastering-markdown/

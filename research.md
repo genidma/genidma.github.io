@@ -5,6 +5,8 @@
 * Modelling systems
 
 ## Area 2
+* Research
+* Business analysis
 
 
 ![Image of Astronaut](https://unsplash.com/photos/OLlj17tUZnU/download?force=true&w=640)
